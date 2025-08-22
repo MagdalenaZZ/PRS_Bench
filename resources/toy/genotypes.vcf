@@ -1,0 +1,7 @@
+##fileformat=VCFv4.2
+##contig=<ID=1>
+##contig=<ID=2>
+#CHROM  POS   ID  REF ALT QUAL FILTER INFO FORMAT id1  id2  id3
+1       10100 rs1 G   A   .    PASS   .    GT     0/1  0/0  1/1
+1       13500 rs2 T   C   .    PASS   .    GT     0/1  1/1	0/0
+2       70500 rs3 A   G   .    PASS   .    GT     0/0  0/1	1/1

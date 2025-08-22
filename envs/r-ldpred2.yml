@@ -1,0 +1,8 @@
+name: r-ldpred2
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+- r-base
+- r-bigsnpr
+- r-bigstatsr
+- r-data.table
+- r-optparse

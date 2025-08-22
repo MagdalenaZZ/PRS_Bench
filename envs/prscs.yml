@@ -1,0 +1,10 @@
+name: prscs
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+- python=3.10
+- numpy
+- scipy
+- pandas
+- pip
+- pip:
+- prscs # or local clone if needed
